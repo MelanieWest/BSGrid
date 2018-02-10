@@ -1,0 +1,19 @@
+ .col{
+     /* max-width: 300px; */
+     min-height: 100px;
+     border: red solid 2px;
+     border-radius: 3px;
+    margin: 5px;
+ }
+ .row{
+    border: green solid 2px;
+    border-radius: 3px; 
+    margin: 5px;    
+ }
+ /* .second{
+    /* max-width: 100%; */
+    min-height: 100px;
+    border: blue solid 1px;
+    border-radius: 3px;
+   margin: 8px;
+} */
